@@ -1,2 +1,16 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Preproposal
+
+## What idea(s) do you have for your final project?
+
+Ad-Blocker using only python
+
+I work at a MSP in Pottstown, PA and an ad-blocker was an issue a coworker
+and I were asked to implement. A company was asking us to block
+Crunchyroll from a security guards desk, kinda funny.
+But I ended up leaving for school before we could really start,
+but Sean gave me the idea that you can block domains on an individual PC
+by restricting it in the system 32 files.(could be totally wrong I am
+looking up examples and tutorials during this, but let me know if 
+I'm far off)
+
+
